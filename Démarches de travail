@@ -1,0 +1,26 @@
+1. Définir un objectif précis et mesurable
+2. EDA (Exploratory Data Analysis)
+    Analyse de la forme
+        identification de la target
+        Nombre de ligne et de colonnes
+        Types de variables
+        Identificationes valeurs manquantes
+    Analyse du fond
+        Visualisation de la target (Histogramme / Boxplot)
+        Compréhension des différentes variables (Internet)
+        Visualisation dss relations features-target (Histogramme / Boxplot)
+        identifications des outliers
+3. Pre-processing
+    Création du train et du test set
+    Elimination des NAN
+    Encodage
+    Suppressions des outliers
+    Feature selection
+    feature engineering
+    feature selection
+4. Modelling
+    Définir une fonction d'évaluation
+    Entrainement des différents modèles
+    Optimisation avec GridSearchCV
+    (Optionnel) Analyse des erreurs et retours au EDA
+    Learning Curve et prise de décision
